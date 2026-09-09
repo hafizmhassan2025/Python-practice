@@ -16,7 +16,7 @@ The four important collection types are:
 | Feature                | List                | Tuple            | Dictionary     | Set          |
 | ---------------------- | ------------------- | ---------------- | -------------- | ------------ |
 | Syntax                 | `[]`                | `()`             | `{key: value}` | `{}`         |
-| Ordered                | Yes                 | Yes              | Yes*           | No indexing  |
+| Ordered                | Yes                 | Yes              | Yes            | No indexing  |
 | Changeable             | Yes                 | No               | Yes            | Yes          |
 | Allows duplicates      | Yes                 | Yes              | Keys: No       | No           |
 | Indexing               | Yes                 | Yes              | No             | No           |
